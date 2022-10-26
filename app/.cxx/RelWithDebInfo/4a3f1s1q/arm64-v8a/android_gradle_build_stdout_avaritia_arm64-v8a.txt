@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\SC\KuroCheat\app\.cxx\RelWithDebInfo\4a3f1s1q\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/avaritia.dir/main.cpp.o
+[2/2] Linking CXX shared library D:\SC\KuroCheat\app\build\intermediates\cxx\RelWithDebInfo\4a3f1s1q\obj\arm64-v8a\libavaritia.so

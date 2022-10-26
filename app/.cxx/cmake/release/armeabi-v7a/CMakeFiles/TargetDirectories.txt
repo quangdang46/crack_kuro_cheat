@@ -1,0 +1,10 @@
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/native_app_glue.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/avaritia.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/whale/CMakeFiles/whale.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/whale/CMakeFiles/edit_cache.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/whale/CMakeFiles/rebuild_cache.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/whale/src/assembler/vixl/CMakeFiles/vixl.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/whale/src/assembler/vixl/CMakeFiles/edit_cache.dir
+D:/SC/KuroCheat/app/.cxx/cmake/release/armeabi-v7a/whale/src/assembler/vixl/CMakeFiles/rebuild_cache.dir

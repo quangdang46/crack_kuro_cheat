@@ -1,0 +1,81 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\SC\\KuroCheat\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\SC\\KuroCheat\\app\\src\\main\\cpp\\whale\\CMakeLists.txt",
+    "D:\\SC\\KuroCheat\\app\\src\\main\\cpp\\whale\\src\\assembler\\vixl\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native_app_glue-RelWithDebInfo-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a",
+        "native_app_glue"
+      ],
+      "buildType": "release",
+      "abi": "arm64-v8a",
+      "artifactName": "native_app_glue",
+      "output": "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a\\libnative_app_glue.a"
+    },
+    "avaritia-RelWithDebInfo-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a",
+        "avaritia"
+      ],
+      "buildType": "release",
+      "abi": "arm64-v8a",
+      "artifactName": "avaritia",
+      "output": "D:\\SC\\KuroCheat\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\4a3f1s1q\\obj\\arm64-v8a\\libavaritia.so",
+      "runtimeFiles": []
+    },
+    "vixl-RelWithDebInfo-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a",
+        "vixl"
+      ],
+      "buildType": "release",
+      "abi": "arm64-v8a",
+      "artifactName": "vixl",
+      "output": "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a\\whale\\src\\assembler\\vixl\\libvixl.a"
+    },
+    "whale-RelWithDebInfo-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a",
+        "whale"
+      ],
+      "buildType": "release",
+      "abi": "arm64-v8a",
+      "artifactName": "whale",
+      "output": "D:\\SC\\KuroCheat\\app\\.cxx\\RelWithDebInfo\\4a3f1s1q\\arm64-v8a\\whale\\libwhale.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

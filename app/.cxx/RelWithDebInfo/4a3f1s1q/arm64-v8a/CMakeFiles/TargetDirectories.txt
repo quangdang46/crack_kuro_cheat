@@ -1,0 +1,10 @@
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/CMakeFiles/native_app_glue.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/CMakeFiles/avaritia.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/whale/CMakeFiles/whale.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/whale/CMakeFiles/edit_cache.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/whale/CMakeFiles/rebuild_cache.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/whale/src/assembler/vixl/CMakeFiles/vixl.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/whale/src/assembler/vixl/CMakeFiles/edit_cache.dir
+D:/SC/KuroCheat/app/.cxx/RelWithDebInfo/4a3f1s1q/arm64-v8a/whale/src/assembler/vixl/CMakeFiles/rebuild_cache.dir

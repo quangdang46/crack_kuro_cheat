@@ -1,0 +1,2 @@
+D:\SC\KuroCheat\app\src\main\jni\Android.mk
+D:\SC\KuroCheat\app\src\main\jni\Application.mk
